@@ -1,0 +1,8 @@
+#card{
+    color: black;
+}
+.background{
+    width: 100%;
+    height: auto;
+    filter: brightness(40%);
+}
